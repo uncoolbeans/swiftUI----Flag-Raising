@@ -11,6 +11,7 @@
 		324DDCDF2674B2B100F47694 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 324DDCDE2674B2B100F47694 /* ContentView.swift */; };
 		324DDCE12674B2B400F47694 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 324DDCE02674B2B400F47694 /* Assets.xcassets */; };
 		324DDCE42674B2B400F47694 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 324DDCE32674B2B400F47694 /* Preview Assets.xcassets */; };
+		C581364D2679911E009B9E64 /* finished.swift in Sources */ = {isa = PBXBuildFile; fileRef = C581364C2679911E009B9E64 /* finished.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		324DDCE02674B2B400F47694 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		324DDCE32674B2B400F47694 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		324DDCE52674B2B400F47694 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C581364C2679911E009B9E64 /* finished.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = finished.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				324DDCDC2674B2B100F47694 /* Flag_Raising_DemoApp.swift */,
 				324DDCDE2674B2B100F47694 /* ContentView.swift */,
+				C581364C2679911E009B9E64 /* finished.swift */,
 				324DDCE02674B2B400F47694 /* Assets.xcassets */,
 				324DDCE52674B2B400F47694 /* Info.plist */,
 				324DDCE22674B2B400F47694 /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				324DDCDF2674B2B100F47694 /* ContentView.swift in Sources */,
+				C581364D2679911E009B9E64 /* finished.swift in Sources */,
 				324DDCDD2674B2B100F47694 /* Flag_Raising_DemoApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
